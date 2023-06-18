@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1687078301,,"wq!"
+|2,0,1687079648,,"wq!"
+:q!
+|2,0,1687079012,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +27,32 @@
 # Registers:
 
 # File marks:
-'0  1  6  ~/git1
-|4,48,1,6,1687078301,"~/git1"
+'0  1  4  ~/.ssh/id_rsa.pub
+|4,48,1,4,1687079648,"~/.ssh/id_rsa.pub"
+'1  1  4  ~/.ssh/id_rsa.pub
+|4,49,1,4,1687079012,"~/.ssh/id_rsa.pub"
+'2  1  6  ~/git1
+|4,50,1,6,1687078301,"~/git1"
 
 # Jumplist (newest first):
+-'  1  4  ~/.ssh/id_rsa.pub
+|4,39,1,4,1687079648,"~/.ssh/id_rsa.pub"
+-'  1  4  ~/.ssh/id_rsa.pub
+|4,39,1,4,1687079012,"~/.ssh/id_rsa.pub"
+-'  1  6  ~/git1
+|4,39,1,6,1687078301,"~/git1"
+-'  1  6  ~/git1
+|4,39,1,6,1687078301,"~/git1"
+-'  1  6  ~/git1
+|4,39,1,6,1687078301,"~/git1"
 -'  1  6  ~/git1
 |4,39,1,6,1687078301,"~/git1"
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/id_rsa.pub
+	*	1687079645	0
+	"	1	4
 
 > ~/git1
 	*	1687078298	0
