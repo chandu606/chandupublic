@@ -74,3 +74,12 @@ ls
 cat id_rsa
 ls
 cat id_rsa.pub
+git clone https://github.com/docker/dockercloud-hello-world
+ls
+git add .
+git staus
+git status
+git add .
+git commit -m 'Added my project'
+git remote add origin git@github.com:chandu606/chandupublic.git
+git push -u -f origin main
